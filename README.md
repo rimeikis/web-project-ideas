@@ -73,6 +73,8 @@ Ideas for your next web application project that can potentially turn into a bus
 
 ## Community & Volunteering
 
+---
+
 - **Virtual Event Platform**: A web app that allows people to host virtual events, such as conferences, meetings, and webinars. Charge event organizers a fee for using the platform, or offer a premium version of the app with additional features, such as advanced analytics and customizable branding.
 
 - **Volunteer Matching Platform**: An app that matches volunteers with non-profit organizations based on their skills and availability. A freemium model where basic features are offered for free, while premium features such as additional resources or support are available for a fee. Alternatively, the platform can earn revenue through advertising or sponsored content.
