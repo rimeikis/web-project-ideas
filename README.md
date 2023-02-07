@@ -73,12 +73,14 @@ Ideas for your next web application project that can potentially turn into a bus
 
 ## Community & Volunteering
 
----
-
 - **Virtual Event Platform**: A web app that allows people to host virtual events, such as conferences, meetings, and webinars. Charge event organizers a fee for using the platform, or offer a premium version of the app with additional features, such as advanced analytics and customizable branding.
 
 - **Volunteer Matching Platform**: An app that matches volunteers with non-profit organizations based on their skills and availability. A freemium model where basic features are offered for free, while premium features such as additional resources or support are available for a fee. Alternatively, the platform can earn revenue through advertising or sponsored content.
 
+---
 
 ## Accommodation & Real Estate
+
 - **Workspace Search Platform**: A platform that connects individuals and businesses with available shared workspaces and meeting rooms. The platform could allow workspace owners to list their available spaces, set their own rental prices, and manage bookings through the platform. To make the platform user-friendly and increase customer trust, you could implement features such as real-time availability, online booking, and a customer review and rating system. Additionally, you could consider offering a subscription-based model, where customers pay a monthly fee for access to a network of shared workspaces and meeting rooms.
+
+---
