@@ -25,3 +25,19 @@ Ideas for your next web application that can potentially turn into a business. L
 - **Job Search Engine**: A job search platform that aggregates job listings from various sources and allows users to apply for jobs, receive job recommendations, and manage their job search. Charge a fee from employers for job postings, or offer a premium service that provides additional features and exposure for job seekers.
 
 - **E-learning Platform**: An online platform that provides access to courses and educational content, allowing users to learn at their own pace. Charge a fee for access to courses or offer a premium service with additional features and benefits for a subscription fee.
+
+- **Mental Health Platform**: A web application that helps people manage their mental health through personalized therapy and stress management techniques. A subscription-based model where users pay a monthly or yearly fee for access to the platform's services, such as personalized therapy and stress management techniques.
+
+- **Platform for Local Farmers**: A platform that connects local farmers and consumers for sustainable and responsible food sourcing. Basically works as a local market but online. A commission-based model where the platform earns a fee for facilitating transactions between farmers and consumers. Alternatively, the platform can offer a premium version with additional features for a fee.
+
+- **Volunteer Matching Platform**: An app that matches volunteers with non-profit organizations based on their skills and availability. A freemium model where basic features are offered for free, while premium features such as additional resources or support are available for a fee. Alternatively, the platform can earn revenue through advertising or sponsored content.
+
+- **Budgeting for Small Businesses**: A web application that simplifies the expense tracking and budgeting process for small businesses and freelancers. A subscription-based model where users pay a fee for access to the platform's advanced features and support.
+
+- **Event Planning Platform**: A platform that streamlines the event planning process by connecting event organizers with vendors and service providers. A commission-based model where the platform earns a fee for connecting event organizers with vendors and service providers. Alternatively, the platform can offer a premium version with additional features for a fee.
+
+- **Language Learning**: A web application that facilitates language learning through conversation exchange with native speakers. A subscription-based model where users pay a monthly or yearly fee for access to the platform's language learning resources and conversation exchange with native speakers.
+
+- **Sustainability Goals Tracking**: An app that makes it easy for people to organize and track their personal sustainability goals, such as reducing waste and carbon footprint. A freemium model where basic features are offered for free, while premium features such as personalized sustainability plans and additional resources are available for a fee.
+
+- **Platform for Pet Sitters**: A platform that connects pet owners with trusted and vetted pet sitters and dog walkers in their local area. A commission-based model where the platform earns a fee for facilitating transactions between pet owners and pet sitters/dog walkers.
