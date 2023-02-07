@@ -1,4 +1,4 @@
-# WEB IDEAS
+# INTRO
 Ideas for your next web application that can potentially turn into a business. List is frequently updated.
 
 # LIST
