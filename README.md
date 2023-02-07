@@ -4,6 +4,8 @@ Ideas for your next web application that can potentially turn into a business. L
 # LIST
 **Meal Planning & Grocery List**: A web app that helps people plan their meals for the week and generate a grocery list based on those meals. Offer a premium version of the app that includes additional features, such as personalized meal plans and grocery lists based on dietary preferences. Alternatively, you can earn revenue through partnerships with grocery stores and food delivery services.
 
+---
+
 **Virtual Event Platform**: A web app that allows people to host virtual events, such as conferences, meetings, and webinars. Charge event organizers a fee for using the platform, or offer a premium version of the app with additional features, such as advanced analytics and customizable branding.
 
 **Online Education**: A platform that provides online courses and tutoring services for students of all ages. Charge students a fee for access to courses and tutoring services, or offer a premium version of the app with additional resources, such as one-on-one coaching and expert instructors.
